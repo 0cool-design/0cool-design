@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://github.com/0cool-design/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://github.com/0cool-design/#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://0cool-design.github.io/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://0cool-design.github.io/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/0_CO0L#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/0_CO0L#gh-dark-mode-only)
