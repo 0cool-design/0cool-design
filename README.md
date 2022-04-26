@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/0cool-design/cv)
+
 <!--
 **0cool-design/0cool-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<embed src="https://github.com/0cool-design/cv" style="width:500px; height: 300px;">
