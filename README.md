@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2F0cool)](https://github.com/0cool-design/cv)
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=0cool)](https://github.com/0cool-design/cv)
 
 <!--
 **0cool-design/0cool-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
