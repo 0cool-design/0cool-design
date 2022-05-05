@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 [![website](./img/globe-light.svg)](https://0cool-design.github.io/#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://0cool-design.github.io/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/0_CO0L#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/0_CO0L#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/0_C0OL#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/0_C0OL#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/0co0l-hamood-alsalmani#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/0co0l-hamood-alsalmani#gh-dark-mode-only)
