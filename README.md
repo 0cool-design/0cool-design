@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="./img/parabola.jpg" alt="Parabola — Tool (Lateralus)" width="220">
-  <br>
-  🎧 <b>Parabola</b> · Tool
-</p>
-
 ### 0cool
 
 Security researcher from Oman. I work on exploits, embedded/hardware, and cryptography.
@@ -32,3 +26,8 @@ Security researcher from Oman. I work on exploits, embedded/hardware, and crypto
 [![instagram](./img/instagram-dark.svg)](https://www.instagram.com/0_co0l#gh-dark-mode-only)
 &nbsp;&nbsp;
 <a href="https://wigle.net"><img alt="WiGLE" border="0" src="https://wigle.net/bi/chvWMGljuyUKebKp+GCSxA.png"></a>
+<p align="center">
+  <img src="./img/parabola.jpg" alt="Parabola — Tool (Lateralus)" width="220">
+  <br>
+  🎧 <b>Parabola</b> · Tool
+</p>
