@@ -1,9 +1,7 @@
 <p align="center">
-  <a href="https://open.spotify.com/track/1vxu8vMNshg5J8z3oA7QJZ">
-    <img src="https://i.scdn.co/image/ab67616d0000b2732949ed4e8581d3a1f20cd0e0" alt="Parabola — Tool (Lateralus)" width="220">
-  </a>
+  <img src="./img/parabola.jpg" alt="Parabola — Tool (Lateralus)" width="220">
   <br>
-  🎧 <b>Parabola</b> · Tool &nbsp;·&nbsp; <a href="https://open.spotify.com/track/1vxu8vMNshg5J8z3oA7QJZ">▶ Spotify</a>
+  🎧 <b>Parabola</b> · Tool
 </p>
 
 ### 0cool
