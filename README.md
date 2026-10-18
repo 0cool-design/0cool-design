@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./img/parabola.svg" alt="parabola" width="100%">
+</p>
+
 ### 0cool
 
 Security researcher from Oman. I work on exploits, embedded/hardware, and cryptography.
